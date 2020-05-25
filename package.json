@@ -8,6 +8,7 @@
   },
   "publisher": "cyrus",
   "repository": "https://github.com/realcyguy/windows-terminal-opener",
+  "license": "MIT",
   "categories": [
     "Other"
   ],

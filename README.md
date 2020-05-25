@@ -2,6 +2,10 @@
 
 Open Windows Terminal from vscode!
 
+## Installation
+
+<https://marketplace.visualstudio.com/items?itemName=Cyrus.windows-terminal-opener>
+
 ## Opening
 
 ### Open from command pallete
@@ -16,8 +20,6 @@ Use command `Open in Windows Terminal`:
 
 Then use your chosen key combination!
 
-## Changelog
+## License
 
-### 1.0.0
-
-- First Commit
+[MIT](https://github.com/RealCyGuy/windows-terminal-opener/blob/master/LICENSE)
