@@ -1,5 +1,10 @@
 # Windows Terminal Opener
 
+![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/Cyrus.windows-terminal-opener?style=for-the-badge)
+[![GitHub license](https://img.shields.io/github/license/realcyguy/windows-terminal-opener?style=for-the-badge)](https://github.com/RealCyGuy/windows-terminal-opener/blob/master/LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/realcyguy/windows-terminal-opener?style=for-the-badge)](https://github.com/realcyguy/windows-terminal-opener/issues)
+[![GitHub stars](https://img.shields.io/github/stars/realcyguy/windows-terminal-opener?style=for-the-badge)](https://github.com/realcyguy/windows-terminal-opener/stargazers)
+
 Open Windows Terminal from vscode!
 
 ## Installation
