@@ -12,6 +12,13 @@
   "categories": [
     "Other"
   ],
+  "keywords": [
+    "windows terminal",
+    "wt",
+    "wt -d .",
+    "windows",
+    "not cats"
+  ],
   "activationEvents": [
     "onCommand:windows-terminal-opener.openWindowsTerminal"
   ],
