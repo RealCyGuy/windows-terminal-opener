@@ -21,7 +21,7 @@ Use command `Open in Windows Terminal`:
 
 ### Context menu
 
-Right click on a folder the click `Open in Windows Terminal`:
+Right click on a folder then click `Open in Windows Terminal`:
 
 ![Context menu](https://i.imgur.com/xgyVOTh.png)
 
