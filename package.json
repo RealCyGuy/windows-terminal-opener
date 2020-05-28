@@ -2,7 +2,7 @@
   "name": "windows-terminal-opener",
   "displayName": "Windows Terminal Opener",
   "description": "Open Windows Terminal from Visual Studio Code!",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "engines": {
     "vscode": "^1.45.0"
   },
