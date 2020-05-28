@@ -2,7 +2,12 @@ import * as vscode from 'vscode';
 const { exec } = require('child_process');
 
 export function activate(context: vscode.ExtensionContext) {
-	let disposable = vscode.commands.registerCommand('windows-terminal-opener.openWindowsTerminal', () => {
+	let disposable = vscode.commands.registerCommand('windows-terminal-opener.openWindowsTerminal', (uri: vscode.Uri) => {
+		if (uri && uri.scheme) {
+			exec('wt -d "' + decodeURIComponent(uri.fsPath) + '"');
+			return;
+		}
+
 		let folders = vscode.workspace.workspaceFolders;
 		if (Array.isArray(folders) && folders.length) {
 			const wt = exec('wt -d "' + folders[0]["uri"]["fsPath"] + '"');

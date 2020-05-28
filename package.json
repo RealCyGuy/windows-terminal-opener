@@ -22,7 +22,16 @@
         "command": "windows-terminal-opener.openWindowsTerminal",
         "title": "Open in Windows Terminal"
       }
-    ]
+    ],
+    "menus": {
+      "explorer/context": [
+        {
+          "command": "windows-terminal-opener.openWindowsTerminal",
+          "group": "navigation",
+          "when": "explorerResourceIsFolder"
+        }
+      ]
+    }
   },
   "scripts": {
     "vscode:prepublish": "npm run compile",

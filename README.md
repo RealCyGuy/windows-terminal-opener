@@ -19,6 +19,12 @@ Use command `Open in Windows Terminal`:
 
 ![Opening command pallete](https://i.imgur.com/HNJJqms.png)
 
+### Context menu
+
+Right click on a folder the click `Open in Windows Terminal`:
+
+![Context menu](https://i.imgur.com/xgyVOTh.png)
+
 ### Set a keyboard shortcut
 
 ![Set keyboard shortcut](https://i.imgur.com/gwMBpKz.png)
